@@ -1,6 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-### Name : KANNADHASAN J
-### Roll no : 212224240071
+### Name : BALASUBRAMANIAM L
+### Roll no : 212224240020
 ### Date of experiment : 25/04/2026
 
 ## Aim: 
